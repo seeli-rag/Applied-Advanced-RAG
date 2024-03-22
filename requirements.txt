@@ -1,6 +1,6 @@
 langchain-openai
 langchain
-pip install pysqlite3-binary
+pysqlite3-binary
 chromadb
 python-dotenv
 tiktoken
